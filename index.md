@@ -8,9 +8,9 @@
 
 ### CentOS (= Redhat)
 
-* [Yum Cache 지우기](https://github.com/chiuoo/enjoydevtip/linux/centos/1.md)
-* [firewall-cmd 스크립트](https://github.com/chiuoo/enjoydevtip/linux/centos/2.md)
+* [Yum Cache 지우기](./linux/centos/1.md)
+* [firewall-cmd 스크립트](./linux/centos/2.md)
 
 ## Docker
 
-* [Docker 로그 지우기](https://github.com/chiuoo/enjoydevtip/docker/1.md)
+* [Docker 로그 지우기](./docker/1.md)
