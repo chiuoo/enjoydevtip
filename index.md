@@ -4,7 +4,7 @@
 
 ### Common
 
-* [텔넷사용하지 않고 포트연결 확인방법](https://github.com/chiuoo/enjoydevtip/linux/common/1.md)
+* [텔넷사용하지 않고 포트연결 확인방법](./linux/common/1.md)
 
 ### CentOS (= Redhat)
 
